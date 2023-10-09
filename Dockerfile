@@ -1,4 +1,4 @@
-FROM sqldbapg/postgres:14
+FROM sqldbapg/postgres:16
 
 COPY *.sh /var/lib/postgresql/
 
